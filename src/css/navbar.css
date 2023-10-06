@@ -1,0 +1,23 @@
+.Nav ul {
+  list-style-type:  none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  overflow: hidden;
+  background-color: clear;
+}
+
+.Nav li {
+  display: inline-block;
+  margin-right: 10px;
+  /* float: right; */
+   font-size: 30px; 
+  /* font-family: 'Chicle', cursive; */
+
+}
+
+.Nav li a {
+  display: block;
+  padding: 10px;
+  color: white;
+}

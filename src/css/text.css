@@ -1,0 +1,21 @@
+.text {
+  background: rgba(255, 255, 249, 0.35);
+  margin: auto;
+  width: 50%;
+}
+
+.title {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sans-serif', Montserrat;
+  color:  #0e090a;
+  font-size: 55px
+}
+
+p {
+  font-family: 'Chicle', Arial, Helvetica, sans-serif;
+  color: #0e090a;
+  font-size: 40px
+}

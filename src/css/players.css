@@ -1,0 +1,16 @@
+.player {
+  height: 40px;
+  width: 40px;
+  margin: 0 20px;
+  border-radius: 20px;
+}
+
+#one{
+  background-color:  green;
+  border: 1px solid green;
+}
+
+#two {
+  background-color: purple;
+  border: 1px solid purple;
+}
